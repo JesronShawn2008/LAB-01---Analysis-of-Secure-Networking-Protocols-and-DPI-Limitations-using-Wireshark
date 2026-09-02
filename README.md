@@ -278,16 +278,17 @@ Save
 
 ## SAMPLE SCREENSHOTS
 
-- Wireshark Interface
-- Live Packet Capture
-- TLS Filter
-- Client Hello
-- Server Hello
-- QUIC Packets
-- HTTP/3 Verification
-- DPI Comparison
+<img width="1118" height="564" alt="image" src="https://github.com/user-attachments/assets/16139c0b-c393-4f77-981e-71d4dfab092f" />
 
----
+<img width="1207" height="601" alt="image" src="https://github.com/user-attachments/assets/b2113374-3b2e-447a-a4e6-28ac7472c935" />
+
+<img width="1173" height="598" alt="image" src="https://github.com/user-attachments/assets/7fa54843-3cae-47b0-9738-780d3d6f9ce3" />
+
+<img width="1166" height="552" alt="image" src="https://github.com/user-attachments/assets/8d756969-e421-4bda-b2a4-dad7ad2703fc" />
+
+<img width="1234" height="626" alt="image" src="https://github.com/user-attachments/assets/faf7a280-109c-4e55-9fe6-55e8cecb056e" />
+
+<img width="1232" height="624" alt="image" src="https://github.com/user-attachments/assets/c4bf6662-eae6-4f93-b460-7591a7611be8" />
 
 # RESULT
 
